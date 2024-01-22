@@ -5,7 +5,9 @@ Hyperspectral images folder includes three subfolders: Day 1, Day 2 and Day 3. O
 RGB images folder consists of three subfolders: Day 1, Day 2 and Day 3. Each subfolder includes the total of the RGB images collected on each day in .jpg format. 
 GNSS folder contains a .txt file with the coordinates of the 9 points measured within the vineyard on the Day 1 in WGS 84 Coordinate system, as well as an image with the location of that points.
 
+
 Sample Hyperspecral images: HI1.jpg & HI2.jpg
+![alt text](/HI1.jpg)
  	 
 Sample RGB images: RGB1.jpg
  
