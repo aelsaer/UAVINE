@@ -5,7 +5,7 @@ Hyperspectral images folder includes three subfolders: Day 1, Day 2 and Day 3. O
 RGB images folder consists of three subfolders: Day 1, Day 2 and Day 3. Each subfolder includes the total of the RGB images collected on each day in .jpg format. 
 GNSS folder contains a .txt file with the coordinates of the 9 points measured within the vineyard on the Day 1 in WGS 84 Coordinate system, as well as an image with the location of that points.
 
-The images are licensed under BSD-3-Clause license. The contents of this repository are released under the [license](https://github.com/aelsaer/UAVINE#).
+The images are licensed under BSD-3-Clause license. The contents of this repository are released under the [license](https://github.com/aelsaer/UAVINE/blob/main/LICENSE).
 
 
 Sample Hyperspecral images: HI1.jpg & HI2.jpg
