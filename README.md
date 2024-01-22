@@ -11,4 +11,4 @@ Sample RGB images: RGB1.jpg
  
 GNSS points location: GNSSLocations.jpg
  
-You may download the data [here]([url](https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L)https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L).
+You may download the data [here]([https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L].
