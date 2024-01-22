@@ -7,10 +7,17 @@ GNSS folder contains a .txt file with the coordinates of the 9 points measured w
 
 
 Sample Hyperspecral images: HI1.jpg & HI2.jpg
+
 ![alt text](/HI1.jpg)
+
+![alt text](/HI2.jpg)
  	 
 Sample RGB images: RGB1.jpg
+
+![alt text](/RGB1.jpg)
  
 GNSS points location: GNSSLocations.jpg
+
+![alt text](/GNSSLocations.jpg)
  
 You may download the data [here](https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L).
