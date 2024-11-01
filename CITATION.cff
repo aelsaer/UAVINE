@@ -19,8 +19,6 @@ authors:
 title: "UAVINE: UAV Hyperspectral and RGB Image Dataset of a
   Vineyard - Temporal Canopy Growth Monitoring Using Leaf
   Area Index"
-  
-identifiers:
 doi: "10.1109/IGARSS53475.2024.10641553"
 date-released: 05 September 2024 
 repository-code: 'https://github.com/aelsaer/UAVINE'
@@ -28,17 +26,17 @@ license: BSD-3-Clause
 
 citation:
 title: "UAVINE: UAV Hyperspectral and RGB Image Dataset of a
-Vineyard - Temporal Canopy Growth Monitoring Using Leaf
-Area Index"
-conference:
-name: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
+  Vineyard - Temporal Canopy Growth Monitoring Using Leaf
+  Area Index"
+ conference:
+	name: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
 year: 2024
 doi: "10.1109/IGARSS53475.2024.10641553"
 start:9186
 end:9191
 
-Plain Text: O. Kourounioti, A. El Saer, L. Grammatikopoulos and E. Oikonomou, "Uavine: UAV Hyperspectral and RGB Image Dataset of a Vineyard - Temporal Canopy Growth Monitoring Using Leaf Area Index," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 9186-9191, doi: 10.1109/IGARSS53475.2024.10641553. keywords: {Area measurement;Vegetation mapping;Machine learning;Autonomous aerial vehicles;Cameras;Sensors;Indexes;Hyperspectral UAV images;leaf area index (LAI);vineyard image dataset;growth rate;fertilizer},
-
+APA: 
+Kourounioti, O., El Saer, A., Grammatikopoulos, L., & Oikonomou, E. (2024, July). Uavine: UAV Hyperspectral and RGB Image Dataset of a Vineyard-Temporal Canopy Growth Monitoring Using Leaf Area Index. In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 9186-9191). IEEE.
 BibTex: 
 @INPROCEEDINGS{10641553,
   author={Kourounioti, Olympia and El Saer, Andreas and Grammatikopoulos, Lazaros and Oikonomou, Emmanouil},
@@ -50,4 +48,3 @@ BibTex:
   pages={9186-9191},
   keywords={Area measurement;Vegetation mapping;Machine learning;Autonomous aerial vehicles;Cameras;Sensors;Indexes;Hyperspectral UAV images;leaf area index (LAI);vineyard image dataset;growth rate;fertilizer},
   doi={10.1109/IGARSS53475.2024.10641553}}
-
