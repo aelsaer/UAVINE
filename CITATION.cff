@@ -16,7 +16,6 @@ authors:
   - given-names: Emmanouil
     family-names: Oikonomou
     affiliation: University of West Attica
-	
 title: "UAVINE: UAV Hyperspectral and RGB Image Dataset of a
   Vineyard - Temporal Canopy Growth Monitoring Using Leaf
   Area Index"
@@ -29,10 +28,10 @@ license: BSD-3-Clause
 
 citation:
 title: "UAVINE: UAV Hyperspectral and RGB Image Dataset of a
-  Vineyard - Temporal Canopy Growth Monitoring Using Leaf
-  Area Index"
- conference:
-	name: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
+Vineyard - Temporal Canopy Growth Monitoring Using Leaf
+Area Index"
+conference:
+name: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
 year: 2024
 doi: "10.1109/IGARSS53475.2024.10641553"
 start:9186
