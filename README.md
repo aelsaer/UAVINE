@@ -22,4 +22,4 @@ GNSS points location: GNSSLocations.jpg
 
 ![alt text](/GNSSLocations.jpg)
  
-You may download the data [here]([https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L](https://doi.org/10.5281/zenodo.24440224)).
+You may download the data [here](https://uniwagr-my.sharepoint.com/:f:/g/personal/okourounioti_uniwa_gr/Emlv54Hu7fZHqcrhN4lUSO4B_QhqTjJUi55vMO-XcPtcEg?e=f0ER1L](https://doi.org/10.5281/zenodo.24440224)).
